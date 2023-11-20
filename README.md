@@ -43,7 +43,3 @@
 
 ### 🎤 Community Contributor
 - Delivered lectures on Big Data and holds certifications in Deep Learning Specialization and CCNA-I.
-
-### GitHub
-[Aagam0812](https://github.com/Aagam0812)
-
